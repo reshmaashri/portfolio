@@ -6,17 +6,16 @@ Student: Reshmaa Shri E
 Deadline: 17 October 2026, 7:00 PM IST
 ================================================================================
 
-[x] 1. RESUME RECONCILIATION & ACCURACY
-    - Examined both provided resumes.
-    - Used the latest resume (Oct 2026) as the primary source of truth.
+[x] 1. PROFILE RECONCILIATION & ACCURACY
     - Verified Name: Reshmaa Shri E
     - Verified Institution: Amrita Vishwa Vidyapeetham (2024–2028)
     - Verified Degree: B.Tech in Artificial Intelligence and Data Science
-    - Verified CGPA: 9.32 / 10.0
+    - Verified Standing: 3rd Year Student
+    - Verified CGPA: 9.2 / 10.0
     - Verified Location: Salem, Tamil Nadu, India
     - Verified Email: reshmaashrie@gmail.com
     - Phone number omitted from public website to protect personal privacy.
-    - No fabricated statistics, proficiency percentages, or exaggerated claims.
+    - No fabricated statistics or false proficiency percentages.
 
 [x] 2. WEBSITE DESIGN & USER EXPERIENCE
     - Sophisticated Navy, White, and Subtle Blue palette applied throughout.
@@ -24,27 +23,29 @@ Deadline: 17 October 2026, 7:00 PM IST
     - Mobile, tablet, and desktop responsive layouts.
     - Smooth scrolling with offset compensation for the fixed blurred navbar.
     - Custom monogram vector favicon (RS) and metadata tags included.
-    - Custom abstract 3D AI neural network visual generated and integrated.
+    - Custom abstract 3D AI neural network visual integrated.
 
-[x] 3. REQUIRED WEBSITE SECTIONS
-    - [x] Home / Hero Section (Headline, intro, visual, CTA buttons, stats)
-    - [x] About Me Section (B.Tech AI & Data Science focus, hackathons, Live-in-Labs)
-    - [x] Technical Skills Section (Grouped into 4 clean cards, no fake percentages)
-    - [x] Projects Section (Behavior Monitor, IoT Air Quality, NewsSpark, Solar System, GitHub Analyzer)
+[x] 3. REQUIRED & EXPANDED WEBSITE SECTIONS
+    - [x] Home / Hero Section (3rd Year Headline, intro, visual, CTA buttons, stats: 9.2 CGPA, 7+ Projects)
+    - [x] About Me Section (3rd Year B.Tech AI & Data Science focus, hackathons, Live-in-Labs)
+    - [x] Technical Skills Section (Grouped into 4 clean cards, including HPC & Cloud Computing)
+    - [x] Projects Section (GPU Sobel Edge, Satellite DL & MRF, Behavior Monitor, IoT Air Quality, NewsSpark, Solar System, GitHub Analyzer)
     - [x] Experience Section (Alfido Tech ML Intern, Anokha AI Agent Frameworks Workshop, AI Tools)
-    - [x] Education Section (Amrita Vishwa Vidyapeetham 9.32 CGPA, Lotus Matric Hr Sec School)
+    - [x] Education Section (Amrita Vishwa Vidyapeetham 9.2 CGPA, Lotus Matric Hr Sec School)
     - [x] Certifications & Achievements (Outskill, Google AI Studio, GUVI-HCL, NPTEL, CIT Speedathon)
     - [x] Contact Section (Direct email with copy-to-clipboard toast, LinkedIn, GitHub, LeetCode)
     - [x] Downloadable Resume button (linking directly to verified resume PDF)
     - [x] Polished Footer (copyright, quick navigation links, back-to-top button)
 
 [x] 4. PROJECT REPOSITORIES & REAL LINKS
-    - Verified IoT Air Quality Monitoring System repo: https://github.com/reshmaashri/IoT-Air-Quality-Monitoring-System
-    - Verified Animated Solar System repo: https://github.com/reshmaashri/solarsystem
-    - Verified GitHub Repository Analyzer repo: https://github.com/reshmaashri/codebase-xray
-    - Verified LinkedIn profile: https://www.linkedin.com/in/reshmaa-shri-e-8a598232b/
-    - Verified GitHub profile: https://github.com/reshmaashri
-    - Verified LeetCode profile: https://leetcode.com/u/ReshmaaShriE/
+    - [x] GPU-Based Image Processing (Sobel Edge Detection) Live Cloud Demo: http://ec2-54-198-126-15.compute-1.amazonaws.com:5000/
+    - [x] Satellite Image Classification (Deep Learning & MRF) Google Colab: https://colab.research.google.com/drive/1myeO2L4Pgt8YqbQoodqbBmJbXg2URHP5#scrollTo=reVp-nlq4b5L
+    - [x] IoT Air Quality Monitoring System repo: https://github.com/reshmaashri/IoT-Air-Quality-Monitoring-System
+    - [x] Animated Solar System repo: https://github.com/reshmaashri/solarsystem
+    - [x] GitHub Repository Analyzer repo: https://github.com/reshmaashri/codebase-xray
+    - [x] Verified LinkedIn profile: https://www.linkedin.com/in/reshmaa-shri-e-8a598232b/
+    - [x] Verified GitHub profile: https://github.com/reshmaashri
+    - [x] Verified LeetCode profile: https://leetcode.com/u/ReshmaaShriE/
 
 [x] 5. PUBLIC DEPLOYMENT
     - Live URL: https://reshmaashri.github.io/portfolio/

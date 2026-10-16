@@ -935,6 +935,17 @@ a {
   border: 1px solid rgba(245, 158, 11, 0.3);
 }
 
+.hpc-badge {
+  background-color: rgba(168, 85, 247, 0.15);
+  color: #c084fc;
+  border: 1px solid rgba(168, 85, 247, 0.3);
+}
+
+.featured-border {
+  border-color: rgba(58, 134, 255, 0.35);
+  background: linear-gradient(175deg, rgba(20, 34, 71, 0.95), rgba(16, 26, 56, 0.98));
+}
+
 .project-date {
   font-size: 0.78rem;
   font-family: var(--font-mono);
