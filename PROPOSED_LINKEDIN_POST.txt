@@ -1,0 +1,39 @@
+================================================================================
+PROPOSED LINKEDIN POST DRAFT — INAMIGOS FOUNDATION TASK 1
+Student: Reshmaa Shri E
+================================================================================
+
+[COPY THE TEXT BELOW FOR YOUR LINKEDIN POST]
+
+🚀 Excited to unveil my new personal developer portfolio website!
+
+As a second-year B.Tech Artificial Intelligence and Data Science undergraduate at Amrita Vishwa Vidyapeetham, I have been focused on bridging algorithmic research with real-world software engineering—from machine learning classification and time-series analysis to IoT telemetry and responsive web development.
+
+🌐 Explore my live portfolio: [INSERT_LIVE_WEBSITE_URL_HERE]
+
+Here is what the website highlights:
+🔹 Applied Projects:
+  • Behavior Monitor (Mental Health Analysis with Flutter, DMD & Eigenvalue Analysis)
+  • GPS-Enabled IoT Air Pollution Monitoring System (ESP32, Gas Sensors & ML)
+  • GitHub Repository Analyzer (CIT Speedathon Hackathon Prototype)
+  • NewsSpark News Platform & Animated Solar System (CSS Keyframes)
+🔹 Technical Toolkit: Python, Java, JavaScript, React, Node.js, Pandas, OpenCV, SQL, MongoDB, AWS CloudFormation
+🔹 Experience & Workshops: Machine Learning Intern at Alfido Tech, AI Agent Frameworks Workshop at Anokha Techfest 2026, and AI Tools Training
+🔹 Verified Credentials: 9.32 CGPA, Generative AI Mastermind (Outskill), Google AI Studio App Deployment, and NPTEL IoT & IR certifications
+
+A major learning milestone during this project was utilizing an AI-assisted web development workflow to streamline UI layout design, accessible color contrast, and responsive typography while maintaining full structural code ownership.
+
+A sincere thank you to InAmigos Foundation (@InAmigos Foundation) for this opportunity (Task 1: Personal Profile Website) and for promoting hands-on, project-driven learning!
+
+I would love to hear feedback and thoughts from fellow engineers, mentors, and recruiters.
+
+#PortfolioWebsite #ArtificialIntelligence #DataScience #WebDevelopment #MachineLearning #IoT #FullStackDeveloper #LearningByDoing #InAmigosFoundation #AmritaUniversity #StudentDeveloper #TechInnovation
+
+================================================================================
+INSTRUCTIONS FOR PUBLISHING & TAGGING:
+1. When composing your post on LinkedIn, type '@InAmigos Foundation' and select the official InAmigos Foundation organization page from the dropdown menu so it creates a live organization tag.
+2. Replace [INSERT_LIVE_WEBSITE_URL_HERE] with your verified live link (from LIVE_WEBSITE_LINK.txt).
+3. Once published:
+   - Take a clean desktop or mobile screenshot showing your post and the InAmigos Foundation tag.
+   - Save the image as 'Social_Media_Screenshot/linkedin_post_screenshot.png' inside the submission folder.
+================================================================================

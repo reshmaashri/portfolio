@@ -1,0 +1,68 @@
+================================================================================
+INAMIGOS FOUNDATION INTERNSHIP ASSIGNMENT
+TASK 1: PERSONAL PROFILE WEBSITE (AI-BASED)
+SUBMISSION CHECKLIST & VERIFICATION REPORT
+Student: Reshmaa Shri E
+Deadline: 17 October 2026, 7:00 PM IST
+================================================================================
+
+[x] 1. RESUME RECONCILIATION & ACCURACY
+    - Examined both provided resumes.
+    - Used the latest resume (Oct 2026) as the primary source of truth.
+    - Verified Name: Reshmaa Shri E
+    - Verified Institution: Amrita Vishwa Vidyapeetham (2024–2028)
+    - Verified Degree: B.Tech in Artificial Intelligence and Data Science
+    - Verified CGPA: 9.32 / 10.0
+    - Verified Location: Salem, Tamil Nadu, India
+    - Verified Email: reshmaashrie@gmail.com
+    - Phone number omitted from public website to protect personal privacy.
+    - No fabricated statistics, proficiency percentages, or exaggerated claims.
+
+[x] 2. WEBSITE DESIGN & USER EXPERIENCE
+    - Sophisticated Navy, White, and Subtle Blue palette applied throughout.
+    - Semantic HTML5, Vanilla CSS3 design system, and Vanilla JavaScript.
+    - Mobile, tablet, and desktop responsive layouts.
+    - Smooth scrolling with offset compensation for the fixed blurred navbar.
+    - Custom monogram vector favicon (RS) and metadata tags included.
+    - Custom abstract 3D AI neural network visual generated and integrated.
+
+[x] 3. REQUIRED WEBSITE SECTIONS
+    - [x] Home / Hero Section (Headline, intro, visual, CTA buttons, stats)
+    - [x] About Me Section (B.Tech AI & Data Science focus, hackathons, Live-in-Labs)
+    - [x] Technical Skills Section (Grouped into 4 clean cards, no fake percentages)
+    - [x] Projects Section (Behavior Monitor, IoT Air Quality, NewsSpark, Solar System, GitHub Analyzer)
+    - [x] Experience Section (Alfido Tech ML Intern, Anokha AI Agent Frameworks Workshop, AI Tools)
+    - [x] Education Section (Amrita Vishwa Vidyapeetham 9.32 CGPA, Lotus Matric Hr Sec School)
+    - [x] Certifications & Achievements (Outskill, Google AI Studio, GUVI-HCL, NPTEL, CIT Speedathon)
+    - [x] Contact Section (Direct email with copy-to-clipboard toast, LinkedIn, GitHub, LeetCode)
+    - [x] Downloadable Resume button (linking directly to verified resume PDF)
+    - [x] Polished Footer (copyright, quick navigation links, back-to-top button)
+
+[x] 4. PROJECT REPOSITORIES & REAL LINKS
+    - Verified IoT Air Quality Monitoring System repo: https://github.com/reshmaashri/IoT-Air-Quality-Monitoring-System
+    - Verified Animated Solar System repo: https://github.com/reshmaashri/solarsystem
+    - Verified GitHub Repository Analyzer repo: https://github.com/reshmaashri/codebase-xray
+    - Verified LinkedIn profile: https://www.linkedin.com/in/reshmaa-shri-e-8a598232b/
+    - Verified GitHub profile: https://github.com/reshmaashri
+    - Verified LeetCode profile: https://leetcode.com/u/ReshmaaShriE/
+
+[x] 5. PUBLIC DEPLOYMENT
+    - Live URL: https://reshmaashri.github.io/portfolio/
+    - Repository: https://github.com/reshmaashri/portfolio
+    - Live and accessible publicly across all browsers without login.
+
+[x] 6. SUBMISSION FOLDER ASSETS PREPARATION
+    - [x] Website source code (index.html, styles.css, script.js, assets/)
+    - [x] README.md with architecture and setup details
+    - [x] LIVE_WEBSITE_LINK.txt
+    - [x] SUBMISSION_CHECKLIST.txt (this file)
+    - [x] PROPOSED_LINKEDIN_POST.txt
+    - [x] Reshmaa_Shri_E_Resume.pdf
+    - [x] Social_Media_Screenshot/ folder
+    - [x] InAmigos_Foundation_Task_1_Code.zip archive
+
+[ ] 7. ACTION ITEMS REQUIRING STUDENT ACTION:
+    - [ ] Copy the proposed LinkedIn post from PROPOSED_LINKEDIN_POST.txt and publish it on your LinkedIn account, tagging the official InAmigos Foundation page.
+    - [ ] Take a screenshot of the published LinkedIn post and place it in the Social_Media_Screenshot/ folder.
+    - [ ] Upload the 'InAmigos_Foundation_Task_1' folder (and ZIP) to your assigned InAmigos Google Drive folder.
+================================================================================
