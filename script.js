@@ -234,53 +234,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /* -------------------------------------------------------------------------
-     Theme Toggle (Balanced Slate / Dark Mode)
-     ------------------------------------------------------------------------- */
-  const themeToggleBtn = document.getElementById('theme-toggle');
-  const savedTheme = localStorage.getItem('portfolio-theme');
-  
-  if (savedTheme) {
-    document.documentElement.setAttribute('data-theme', savedTheme);
-  } else {
-    // Default to light balanced theme
-    document.documentElement.setAttribute('data-theme', 'light');
-  }
-
-  if (themeToggleBtn) {
-    themeToggleBtn.addEventListener('click', () => {
-      const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
-      const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-      document.documentElement.setAttribute('data-theme', newTheme);
-      localStorage.setItem('portfolio-theme', newTheme);
-      showToast(newTheme === 'dark' ? '🌙 Dark theme enabled' : '☀️ Light theme enabled');
-    });
-  }
-
-  /* -------------------------------------------------------------------------
-     Hero Code Window Tab Switching
-     ------------------------------------------------------------------------- */
-  const tabProfileBtn = document.getElementById('tab-btn-profile');
-  const tabDeployBtn = document.getElementById('tab-btn-deploy');
-  const tabProfileContent = document.getElementById('tab-profile');
-  const tabDeployContent = document.getElementById('tab-deploy');
-
-  if (tabProfileBtn && tabDeployBtn && tabProfileContent && tabDeployContent) {
-    tabProfileBtn.addEventListener('click', () => {
-      tabProfileBtn.classList.add('active');
-      tabDeployBtn.classList.remove('active');
-      tabProfileContent.style.display = 'block';
-      tabDeployContent.style.display = 'none';
-    });
-
-    tabDeployBtn.addEventListener('click', () => {
-      tabDeployBtn.classList.add('active');
-      tabProfileBtn.classList.remove('active');
-      tabProfileContent.style.display = 'none';
-      tabDeployContent.style.display = 'block';
-    });
-  }
-
-  /* -------------------------------------------------------------------------
      Back to Top Button
      ------------------------------------------------------------------------- */
   const backToTopBtn = document.getElementById('back-to-top');
@@ -293,4 +246,3 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
-
